@@ -1,4 +1,14 @@
-**SmoothTaskbar Toggle (Windows 11 Fix)**
+/#########################################################################\
+#                                                                         #
+#   ██╗   ██╗ █████╗ ███╗   ██╗██╗   ██╗███████╗██████╗                   #
+#   ██║   ██║██╔══██╗████╗  ██║╚██╗ ██╔╝██╔════╝██╔══██╗                  #
+#   ██║   ██║███████║██╔██╗ ██║ ╚████╔╝ █████╗  ██████╔╝                  #
+#   ╚██╗ ██╔╝██╔══██║██║╚██╗██║  ╚██╔╝  ██╔══╝  ██╔══██╗                  #
+#    ╚████╔╝ ██║  ██║██║ ╚████║   ██║   ███████╗██║  ██║                  #
+#     ╚═══╝  ╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝   ╚══════╝╚═╝  ╚═╝                  #
+#                                                                         #
+#     VΛNϒΞR's SmoothTransition-Windows-11-Taskbar-Fix                    #
+\#########################################################################/
 
 **What it do? :o**
 If you're here, you already know the pain. The default Windows 11 auto-hide taskbar is completely broken. It's buggy, it gets stuck, it stutters, or it just snaps away instantly with zero animation. It's ridiculously frustrating when you just want a clean, dark desktop setup without the UI glitching out and ruining the vibe.
