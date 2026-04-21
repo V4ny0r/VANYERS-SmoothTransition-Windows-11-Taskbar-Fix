@@ -1,12 +1,20 @@
-/#########################################################################\
-#                                                                         #
-#   \ \   / /   / \     | \ | |  \ \ / /  |  ___|  |  _ \                 #
-#    \ \ / /   / _ \    |  \| |   \ V /   | |_     | |_) |                #
-#     \ V /   / ___ \   | |\  |    | |    |  _|    |  _ <                 #
-#      \_/   /_/   \_\  |_| \_|    |_|    |_____|  |_| \_\                #
-#                                                                         #
-#       VΛNϒΞR's SmoothTransition-Windows-11-Taskbar-Fix                  #
-\#########################################################################/
++---------------------------------------------------------------------+
+|                                                                     |
+|   \ \   / /   / \     | \ | |  \ \ / /  |  |  |  _ \             |
+|    \ \ / /   / _ \    |  | |   \ V /   | |     | |) |            |
+|     \ V /   / ___ \   | |\  |    | |    |  |    |  _ <             |
+|      _/   //   _\  || _|    ||    |_____|  || _\            |
+|                                                                     |
+|   VΛNϒΞR PRESENTS:                                                  |
+|   ===============================================================   |
+|                                                                     |
+|   Project: SmoothTransition-Windows-11-Taskbar-Fix                  |
+|   Target:  Windows 11 Bugfix Tool                                   |
+|   Version: 1.0                                                      |
+|                                                                     |
+|   "Fixing Win11 jank, one script at a time."                        |
+|                                                                     |
++---------------------------------------------------------------------+
 
 **What it do? :o**
 If you're here, you already know the pain. The default Windows 11 auto-hide taskbar is completely broken. It's buggy, it gets stuck, it stutters, or it just snaps away instantly with zero animation. It's ridiculously frustrating when you just want a clean, dark desktop setup without the UI glitching out and ruining the vibe.
