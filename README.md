@@ -6,8 +6,8 @@
 |        \ V /     /     \   | |\  |    | |    _______  |  _ <        |
 |         \_/     /       \  |_| \_|    |_|    _______  |_| \_\       |
 |                                                                     |
-|  VΛNϒΞR's Easy Post Paster SmoothTransition-Windows-11-Taskbar-Fix  |
-|                       x.com/vanyergaming                            |
+|          VΛNϒΞR's SmoothTransition Windows 11 Taskbar Fix           |
+|                        x.com/vanyergaming                           |
 |   ===============================================================   |
 +---------------------------------------------------------------------+
 ```
